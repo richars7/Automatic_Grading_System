@@ -8,3 +8,5 @@ This repository contains the code about how we proceeded internship under Dr. Go
 Let's suppose we have four documents of Matlab code for checking the similarity. Doc 4 consists the matlab code for the gradient descent algorithm and other 3 docs consists of matlab code for Compute cost with slight variations. So, we can see that the doc 4 is much far away to other documents becasue the measure of similarity is least. 
 
 
+
+
